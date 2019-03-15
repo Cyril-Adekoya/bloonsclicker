@@ -1,0 +1,89 @@
+{
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 0,
+         "Angle" : 0.0,
+         "Flip" : 0,
+         "Position" : [ -1.0, 2.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "snow_falling_subcompound.json",
+         "type" : 2,
+         "uid" : 1
+      }
+   ],
+   "customvariables" : null,
+   "events" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "snow_falling_subcompound.json",
+            "Texture" : "InGame"
+         }
+      ],
+      "StageLength" : 3.2
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 1,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.0,
+               "Angle" : 0.0,
+               "Colour" : 16777215,
+               "Flip" : 0,
+               "Position" : [ -1.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -1.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -1.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 0.5986394286155701
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.0,
+               "Angle" : 0.0,
+               "Colour" : 16777215,
+               "Flip" : 0,
+               "Position" : [ -1.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.183673381805420
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -1.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.612244844436646
+            }
+         ]
+      }
+   ]
+}
